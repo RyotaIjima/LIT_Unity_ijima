@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5AD6D745-47B8-6DAE-9BEF-9E3879947D9D}") = "turi", "Assembly-CSharp-firstpass.csproj", "{E9403B24-D96E-E502-B314-9482DD820B66}"
+EndProject
+Project("{5AD6D745-47B8-6DAE-9BEF-9E3879947D9D}") = "turi", "Assembly-CSharp.csproj", "{FB25E130-67C2-C49F-303A-AEE2E01C7D9A}"
+EndProject
+Project("{5AD6D745-47B8-6DAE-9BEF-9E3879947D9D}") = "turi", "Assembly-CSharp-Editor.csproj", "{E28B1F35-71C1-250D-AC06-5229426DA41B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9403B24-D96E-E502-B314-9482DD820B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9403B24-D96E-E502-B314-9482DD820B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9403B24-D96E-E502-B314-9482DD820B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9403B24-D96E-E502-B314-9482DD820B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB25E130-67C2-C49F-303A-AEE2E01C7D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB25E130-67C2-C49F-303A-AEE2E01C7D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB25E130-67C2-C49F-303A-AEE2E01C7D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB25E130-67C2-C49F-303A-AEE2E01C7D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E28B1F35-71C1-250D-AC06-5229426DA41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28B1F35-71C1-250D-AC06-5229426DA41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28B1F35-71C1-250D-AC06-5229426DA41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28B1F35-71C1-250D-AC06-5229426DA41B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
